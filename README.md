@@ -1,4 +1,4 @@
-# Termux-set
+# Termux-setup
 
 
 pkg install git
